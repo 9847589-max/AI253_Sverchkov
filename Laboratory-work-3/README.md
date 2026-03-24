@@ -137,3 +137,16 @@
 
 
 Changed by GitHub
+
+
+### 5 Двонаправлене узгодження Git-репозиторія та GitHub-репозиторія
+
+
+![ошибко](https://github.com/user-attachments/assets/d1eb032d-ddd8-44d3-add7-80fc1f920cbe)
+
+![Снимок экрана 2026-03-24 150313](https://github.com/user-attachments/assets/d24896ea-2ef7-4289-9f83-3cc85cc3be33)
+
+![Снимок экрана 2026-03-24 151210](https://github.com/user-attachments/assets/e9590c91-7e51-4458-b73b-e684b9d2a9c4)
+
+
+
