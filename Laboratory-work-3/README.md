@@ -41,3 +41,12 @@
 <img width="579" height="424" alt="image" src="https://github.com/user-attachments/assets/2ff4c2fb-53bc-4576-8e2a-fa1edd3eb9e7" />
 
 Рис. 9 – Фрагмент екрану з рішення завдання 2.3.3 Перейти до домашнього (кореневого) каталогу вашого користувача. Використовуючи текстовий редактор, наприклад, nano, розпочати редагування файлу .bash_profile та додати у файл два рядки зі створеними раніше псевдонімами виклику команд.
+
+<img width="581" height="369" alt="image" src="https://github.com/user-attachments/assets/808c06e1-e668-405d-9928-1d0ee62d8f2e" />
+
+Рис. 10 – Фрагмент екрану з рішення завданнь 2.3.4 Завершити роботу з GitBash-оболонкою через команду exit
+2.3.5 Повторно запустити GitBash-оболонку та перевірити роботу одного зі створених
+
+<img width="415" height="37" alt="image" src="https://github.com/user-attachments/assets/85cf5171-da11-4e77-b6a0-989f66ac38b4" />
+
+Рис. 11 – Фрагмент екрану з рішення завданнь 2.3.6 Скопіювати файл .bash_profile до каталогу «Laboratory-work-3» Git-репозиторію
